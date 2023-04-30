@@ -6,7 +6,5 @@
 
 - 🔭 I’m currently working on CPIS-222 Operating Systems, CPIS-351 System Design & Analysis, CPIS-357 Software Quality & Design, CPIS-358 Web Development in .NET
 - 🌱 I’m currently trying to comprehend React and Angula
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-
-Go to ttchan.netlify.app for my story and more!
+- 💬 I am not very smart in Object-Oriented Programming, but in general consistent in learning different topics
+- 📫 How to reach me: Go to https://ttchan.netlify.app for my story and more!
