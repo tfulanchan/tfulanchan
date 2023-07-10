@@ -5,6 +5,6 @@
 --> 
 
 - 🔭 Most recently, I took CPIS-222 Operating Systems, CPIS-351 System Design & Analysis, CPIS-357 Software Quality & Design, CPIS-358 Web Development in .NET
-- 🌱 I’m currently trying to master applications of ASP.NET and Microsoft SQL Server
+- 🌱 I’m working on React and Next.js
 - 💬 
 - 📫 How to reach me: Go to https://ttchan.netlify.app for my story and more!
