@@ -12,4 +12,5 @@
 - 📫 How to reach me: Go to https://ttchan.netlify.app for my story and more!
 
 - [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@tfulanchan&v=2)](https://github.com/anuraghazra/github-readme-stats)
+![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&tfulanchan&layout=compact&&theme=default&link="https://www.github.com/tfulanchan/") 
 
