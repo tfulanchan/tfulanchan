@@ -10,3 +10,6 @@
 - 🌱 I’m working on React and Next.js
 - 💬 "blah blah blah"
 - 📫 How to reach me: Go to https://ttchan.netlify.app for my story and more!
+
+- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tfulanchan)](https://github.com/anuraghazra/github-readme-stats)
+
