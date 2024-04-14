@@ -16,10 +16,10 @@
 
 I'm a junior software developer focused on web development with Vue and React.
 
-- 🚀 I love using public cloud. AWS and Azure are my favorites
+- 🚀 I love using public cloud. [AWS](https://aws.amazon.com/blogs/machine-learning/) and [Azure](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/bg-p/Azure-AI-Services-blog) are my favorites
 - 🧠 I'm currently learning Vue/Nuxt, React/Next, and mobile app developemnt
 - 🤝 I'm open to collaborating on web and software development
-- ⚡ I like reading research papers and using Visual Studio Code
+- ⚡ I like reading tech [blogs](https://www.accenture.com/au-en/case-studies/cloud/mercedes-benz-races-into-cloud), research papers and using Visual Studio Code
 - 🌍 I enjoy traveling for work
 - 🌱 I was authorized by King Fahd Quran Complex of Ministry of Islamic Affairs of Saudi Arabia to maintain the [electronic versions](https://github.com/tfulanchan/complex) of two publications in Chinese
   
