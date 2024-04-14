@@ -13,6 +13,7 @@
 ) ![git](https://camo.githubusercontent.com/97355a4f48ed3fe5d9763f1d151b4b9716c0e444461c9b54512042336886ba7e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974
 ) ![vscode](https://camo.githubusercontent.com/a84b921a468b7756774d8cdbefeaf74db66bd4452392162b76b9845cd7f58301/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465
 )
+
 I'm a junior software developer focused on web development with Vue and React.
 
 - 🚀 I love using public cloud. AWS and Azure are my favorites
