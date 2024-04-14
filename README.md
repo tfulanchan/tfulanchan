@@ -26,7 +26,7 @@ I'm a junior software developer focused on web development with Vue and React.
 <!--
 **tfulanchan/tfulanchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tfulanchan&show_icons=true&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tfulanchan&show_icons=true)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tfulanchan)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tfulanchan&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
