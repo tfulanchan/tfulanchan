@@ -34,5 +34,5 @@ I'm a junior software developer focused on web development with Vue and React.
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tfulanchan)](https://github.com/anuraghazra/github-readme-stats)
 --> 
 
-- [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@tfulanchan&v=2)](https://github.com/anuraghazra/github-readme-stats)
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@tfulanchan&v=2)](https://github.com/anuraghazra/github-readme-stats)
  
