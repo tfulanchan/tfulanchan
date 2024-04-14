@@ -1,14 +1,4 @@
 # Hi there 👋
-
-I'm a junior software developer focused on web development with Vue and React.
-
-- 🚀 I love using public cloud. AWS and Azure are my favorites
-- 🧠 I'm currently learning Vue/Nuxt, React/Next, and mobile app developemnt
-- 🤝 I'm open to collaborating on web and software development
-- ⚡ I like reading research papers and using Visual Studio Code
-- 🌍 I enjoy traveling for work
-- 🌱 I was authorized by King Fahd Quran Complex of Ministry of Islamic Affairs of Saudi Arabia to maintain the [electronic version](https://github.com/tfulanchan/complex) of two publications in Chinese
-
 ![MySQL](https://camo.githubusercontent.com/9bf95043af954f6a6fece35e50c932838ad1717f94edb4056322f3c26b5906c2/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d7973716c
 ) ![JS](https://camo.githubusercontent.com/83332cff730c24fb7829ea5ff814d2629572848a0881cf9a60222ef296263782/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73
 ) ![H5](https://camo.githubusercontent.com/4c31cabd8b3aa138d55adcf0a5415e5f71f38f4f5eb0ef7312ef675077834b8d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c
@@ -23,6 +13,14 @@ I'm a junior software developer focused on web development with Vue and React.
 ) ![git](https://camo.githubusercontent.com/97355a4f48ed3fe5d9763f1d151b4b9716c0e444461c9b54512042336886ba7e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974
 ) ![vscode](https://camo.githubusercontent.com/a84b921a468b7756774d8cdbefeaf74db66bd4452392162b76b9845cd7f58301/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465
 )
+I'm a junior software developer focused on web development with Vue and React.
+
+- 🚀 I love using public cloud. AWS and Azure are my favorites
+- 🧠 I'm currently learning Vue/Nuxt, React/Next, and mobile app developemnt
+- 🤝 I'm open to collaborating on web and software development
+- ⚡ I like reading research papers and using Visual Studio Code
+- 🌍 I enjoy traveling for work
+- 🌱 I was authorized by King Fahd Quran Complex of Ministry of Islamic Affairs of Saudi Arabia to maintain the [electronic versions](https://github.com/tfulanchan/complex) of two publications in Chinese
   
 <!--
 **tfulanchan/tfulanchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,7 +28,9 @@ I'm a junior software developer focused on web development with Vue and React.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tfulanchan)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tfulanchan&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 - 🔭 I took CPIS-222 Operating Systems, CPIS-351 System Design & Analysis, CPIS-357 Software Quality & Design, CPIS-358 Web Development in .NET
+--> 
 
 - [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@tfulanchan&v=2)](https://github.com/anuraghazra/github-readme-stats)
  
