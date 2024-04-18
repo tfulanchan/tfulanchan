@@ -21,7 +21,6 @@ I'm a junior software developer focused on web development with Vue and React.
 - 🤝 I'm open to collaborating on web and software development
 - ⚡ I like reading tech [blogs](https://www.accenture.com/au-en/case-studies/cloud/mercedes-benz-races-into-cloud), research papers and using Visual Studio Code
 - 🌍 I enjoy traveling for work
-- 🌱 I was authorized by King Fahd Quran Complex of Ministry of Islamic Affairs of Saudi Arabia to maintain the [electronic versions](https://github.com/tfulanchan/complex) of two publications in Chinese
   
 <!--
 **tfulanchan/tfulanchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
